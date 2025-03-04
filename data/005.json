@@ -1,0 +1,37 @@
+{
+    "title": "Soft Tissue Tumors",
+    "questions": [
+      {
+        "question": "1. Soft tissue tumors are classified into:",
+        "options": [
+          "Connective tissue tumors",
+          "Tumors of muscles",
+          "Vascular tumors",
+          "All of the above",
+          "None of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "2. Rhabdomyoma is:",
+        "options": [
+          "Malignant tumor of bone",
+          "Benign tumor of blood vessels",
+          "Benign tumor of smooth muscles",
+          "Benign tumor of skeletal muscles"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "3. Types of rhabdomyosarcoma are:",
+        "options": [
+          "Embryonal rhabdomyosarcoma",
+          "Pleomorphic rhabdomyosarcoma",
+          "Alveolar rhabdomyosarcoma",
+          "All of the above"
+        ],
+        "correct": 3
+      }
+    ]
+  }
+  

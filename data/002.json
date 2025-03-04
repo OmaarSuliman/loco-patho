@@ -1,0 +1,94 @@
+{
+    "title": "Acute Osteomyelitis",
+    "questions": [
+      {
+        "question": "1. Acute non-hematogenous osteomyelitis affects which part of long bones?",
+        "options": [
+          "Epiphysis",
+          "Diaphysis",
+          "Metaphysis",
+          "Cartilaginous cap"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "2. Acute non-hematogenous osteomyelitis is characterized by all of the following EXCEPT:",
+        "options": [
+          "Subperiosteal abscess",
+          "Affects the diaphysis of long bones",
+          "Caused by direct infection",
+          "Affects commonly adults"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "3. The pathological features of acute hematogenous osteomyelitis include:",
+        "options": [
+          "Subperiosteal abscess",
+          "Bone necrosis",
+          "Formation of sequestrum",
+          "New bone formation at the periosteum (involucrum)",
+          "All of the above"
+        ],
+        "correct": 4
+      },
+      {
+        "question": "4. The complications of acute hematogenous osteomyelitis are:",
+        "options": [
+          "Direct spread to surrounding tissue and joint",
+          "Blood spread leading to toxemia, septicemia, and pyemia",
+          "Pathological fracture",
+          "Chronic suppurative osteomyelitis",
+          "All of the above"
+        ],
+        "correct": 4
+      },
+      {
+        "question": "5. Hematogenous osteomyelitis in children most commonly starts in the:",
+        "options": [
+          "Epiphysis of long bones",
+          "Metaphysis of long bones",
+          "Diaphysis of long bones",
+          "Vertebral bones",
+          "Short bones"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "6. The most common organism causing osteomyelitis is:",
+        "options": [
+          "Streptococcus hemolyticus",
+          "Staphylococcus aureus",
+          "Salmonella",
+          "E. coli",
+          "Klebsiella"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "7. True or False: Osteomyelitis mostly affects long bones of adults.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "8. True or False: TB osteomyelitis is a type of acute hematogenous osteomyelitis.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "9. True or False: Osteomyelitis is an inflammation confined to the bone only.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      }
+    ]
+  }
+  

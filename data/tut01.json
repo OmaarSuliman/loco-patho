@@ -1,0 +1,90 @@
+{
+    "title": "Arthritis",
+    "questions": [
+      {
+        "question": "1. Rheumatic arthritis is a type of chronic inflammation.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "2. Rheumatoid arthritis affects mainly small joints and is more common in males.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. Most common organism that causes suppurative arthritis is:",
+        "options": [
+          "Staphylococcus",
+          "Streptococcus",
+          "E. coli",
+          "All of the above",
+          "A and B"
+        ],
+        "correct": 4
+      },
+      {
+        "question": "4. TB of joint is a form of primary TB.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "5. Most characteristic sign of TB arthritis is:",
+        "options": [
+          "Effusion",
+          "Ankylosis",
+          "Cold abscess",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "6. Osteoarthritis is:",
+        "options": [
+          "An inflammatory disorder",
+          "Secondary and more common",
+          "Degenerative disorder",
+          "All of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "7. Most characteristic sign of osteoarthritis is:",
+        "options": [
+          "Caseation",
+          "Pus formation",
+          "Joint mice",
+          "Fibrosis"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "8. Gout may affect females before menopause.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "9. Synovioma is:",
+        "options": [
+          "Benign tumor",
+          "Common tumor",
+          "Rare malignant tumor",
+          "Metastasis occurs early to the lung",
+          "C and D"
+        ],
+        "correct": 2
+      }
+    ]
+  }
+  

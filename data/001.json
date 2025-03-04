@@ -1,0 +1,66 @@
+{
+    "title": "Pathogenesis of Bone Repair",
+    "questions": [
+      {
+        "question": "1. What is the initial response following a bone fracture?",
+        "options": [
+          "Hematoma formation",
+          "Soft callus formation",
+          "Hard callus formation",
+          "Bone remodeling"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "2. Which term best describes the 'procallus' in bone healing?",
+        "options": [
+          "The mature bony callus that forms later",
+          "The initial soft callus composed mainly of collagen and cartilage",
+          "The hematoma that forms immediately after injury",
+          "The fibrous scar tissue formed during repair"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. Primary (direct) bone healing is characterized by:",
+        "options": [
+          "Healing without callus formation",
+          "Healing with significant callus formation",
+          "An extended inflammatory response",
+          "Nonunion of the fracture"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. During which phase of bone repair does the soft callus form?",
+        "options": [
+          "Inflammatory phase",
+          "Repair phase",
+          "Remodeling phase",
+          "Consolidation phase"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "5. What is the main purpose of the bone remodeling phase in fracture repair?",
+        "options": [
+          "To form the initial hematoma",
+          "To replace the soft callus with a hard callus",
+          "To restore the bone's original shape and strength",
+          "To initiate the inflammatory response"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "6. Bone repair is generally classified into:",
+        "options": [
+          "Primary (direct) and secondary (indirect) repair",
+          "Acute and chronic repair",
+          "Regenerative and reparative repair",
+          "Intramembranous and endochondral repair only"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  

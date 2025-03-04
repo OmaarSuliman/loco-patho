@@ -1,0 +1,131 @@
+{
+    "title": "Bone Tumors",
+    "questions": [
+      {
+        "question": "1. Osteoma is defined as.....",
+        "options": [
+          "Bone disease characterized by deficient matrix formation due to inadequate osteoblastic activity",
+          "A congenital disease characterized by overgrowth of fibrous tissue inside the bone. It occurs in children and adults",
+          "A primary osteogenic bone tumor",
+          "A group of diseases characterized by abnormality in the growth, formation, or structure of bone"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "2. Exostosis is a....",
+        "options": [
+          "Rare disease of old males affecting the skull, vertebrae, pelvis, and long bones",
+          "A skeletal disorder resulting in a loss of bone mass",
+          "A benign tumor arising from the epiphyseal cartilage of growing long bones",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "3. Chondroma is a....",
+        "options": [
+          "Malignant osteogenic tumor",
+          "Fibrogenic tumor",
+          "Benign chondrogenic tumor",
+          "Locally malignant tumor"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "4. All of the following are benign tumors of bone except:",
+        "options": [
+          "Osteoid osteoma",
+          "Chondroma",
+          "Osteosarcoma",
+          "Osteochondroma"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "5. Predisposing factors of osteosarcoma are:",
+        "options": [
+          "Osteochondroma",
+          "Paget's disease of bone",
+          "Bone irradiation",
+          "All of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "6. Ewing's tumor is:",
+        "options": [
+          "A bone disease characterized by deficient matrix formation due to inadequate osteoblastic activity",
+          "The commonest malignant bone tumor",
+          "A tumor of unknown origin occurring in males between 10 and 25 years",
+          "A malignant chondrogenic tumor"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "7. Ewing's tumor shows the following morphology except:",
+        "options": [
+          "Gray firm mass in the bone marrow with areas of hemorrhage and necrosis",
+          "Lifting of the periosteum with new bone formation (onion skin appearance on X-ray)",
+          "Multiple giant cells with more than 100 nuclei",
+          "Uniform small round cells with indefinite borders, scanty cytoplasm, and large rounded darkly stained nuclei"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "8. Effects of multiple myeloma are:",
+        "options": [
+          "Pathological fracture",
+          "Anemia and thrombocytopenia",
+          "Hypercalcemia and calcification",
+          "All of the above",
+          "None of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "9. Features of osteosarcoma are:",
+        "options": [
+          "The tumor arises mostly in relation to the endosteum, growing in the medullary canal and through the cortex forming a fusiform mass",
+          "Shows a sun ray appearance on X-ray",
+          "Microscopic picture shows spindle and polygonal malignant cells with many multinucleated malignant giant cells",
+          "All of the above",
+          "None of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "10. Which of the following is malignant:",
+        "options": [
+          "Osteoblastoma",
+          "Chondroblastoma",
+          "Myeloma",
+          "All of the above",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "11. Which tumor is expected to have the best prognosis after treatment:",
+        "options": [
+          "Low grade osteosarcoma",
+          "Giant cell tumor",
+          "Solitary metastasis from breast cancer",
+          "Ewing sarcoma",
+          "Multiple myeloma"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "12. Which of the following long bone tumors can be mistaken for osteomyelitis:",
+        "options": [
+          "Ewing sarcoma",
+          "Osteosarcoma",
+          "Giant cell tumor",
+          "Solitary myeloma",
+          "Chondrosarcoma"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  

@@ -1,0 +1,56 @@
+{
+    "title": "Chronic Osteomyelitis",
+    "questions": [
+      {
+        "question": "1. A complication of chronic suppurative osteomyelitis is:",
+        "options": [
+          "Squamous cell carcinoma arising from an epithelialized sinus",
+          "Osteosarcoma",
+          "Ewing sarcoma",
+          "All of the above"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "2. Brodie's abscess is most commonly associated with which form of osteomyelitis?",
+        "options": [
+          "Acute hematogenous osteomyelitis",
+          "Chronic osteomyelitis",
+          "Acute non-hematogenous osteomyelitis",
+          "Tubercular osteomyelitis"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. Which of the following radiological features is characteristic of chronic osteomyelitis?",
+        "options": [
+          "Sequestrum",
+          "Involucrum",
+          "Cloaca",
+          "All of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "4. Which clinical feature is most indicative of chronic osteomyelitis?",
+        "options": [
+          "High fever with acute onset",
+          "Intermittent draining sinus tracts",
+          "Rapidly progressive bone destruction",
+          "Absence of pain at the site of infection"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "5. A common predisposing factor for chronic osteomyelitis is:",
+        "options": [
+          "Incomplete treatment of acute osteomyelitis",
+          "Recent bone trauma",
+          "Autoimmune mediated bone destruction",
+          "Primary bone tumor"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  
