@@ -1,12 +1,12 @@
 {
   "title": "Pathology",
   "quizzes": [
-    {"title": "Pathogenesis of bone repair", "path": "data/001.json"},
-    {"title": "Acute osteomyelitis", "path": "data/002.json"},
-    {"title": "Chronic osteomyelitis", "path": "data/003.json"},
-    {"title": "Bone tumors", "path": "data/004.json"},
-    {"title": "Soft tissue tumors", "path": "data/005.json"},
-    {"title": "TUT1: Arthritis", "path": "data/tut01.json"},
-    {"title": "TUT2: A hereditary diseases of collagen (Marfan syndrome)", "path": "data/tut02.json"}
+    {"title": "Pathogenesis of bone repair", "path": "data/patho_001.json"},
+    {"title": "Acute osteomyelitis", "path": "data/patho_002.json"},
+    {"title": "Chronic osteomyelitis", "path": "data/patho_003.json"},
+    {"title": "Bone tumors", "path": "data/patho_004.json"},
+    {"title": "Soft tissue tumors", "path": "data/patho_005.json"},
+    {"title": "TUT1: Arthritis", "path": "data/patho_tut01.json"},
+    {"title": "TUT2: A hereditary diseases of collagen (Marfan syndrome)", "path": "data/patho_tut02.json"}
   ]
 }
